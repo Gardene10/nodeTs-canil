@@ -7,7 +7,7 @@ const router = Router()
 router.get('/',PageController.home)
 router.get('/dogs',PageController.dogs)
 router.get('/cats',PageController.cats)
-router.get('/others',PageController.others)
+router.get('/peixes',PageController.peixes)
 
 router.get('/search',SearchController.search)
 
