@@ -15,4 +15,4 @@ export const search = (req: Request, res:Response) => {
         list,
         query
     })
-}
+} 
